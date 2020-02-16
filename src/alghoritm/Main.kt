@@ -1,0 +1,5 @@
+package alghoritm
+
+class Main {
+
+}
